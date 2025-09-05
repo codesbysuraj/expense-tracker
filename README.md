@@ -20,11 +20,26 @@ Data is stored locally in your browser using **localStorage**, so it stays saved
 ## 🛠️ Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling  
-- **JavaScript (Vanilla JS)** – Logic and localStorage  
+- **JavaScript (Vanilla JS)** – Logic and localStorage
 
+---
+
+## 🔮 Future Improvements
+- ✏️ Option to edit or delete existing expenses.  
+- 📈 Add charts and graphs for better visualization of spending.  
+- 📱 Improve mobile responsiveness for a smoother experience.
+- 
 ---
 
 ## 🚀 Getting Started
 1. Clone this repository:  
    ```bash
    git clone https://github.com/codesbysuraj/expense-tracker.git
+   
+---
+
+## 👨‍💻 Author
+
+**Suraj Yadav**  
+- GitHub: [@codesbysuraj](https://github.com/codesbysuraj)  
+- Email: [surajy.tech@gmail.com](mailto:surajy.tech@gmail.com)
